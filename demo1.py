@@ -1,5 +1,5 @@
 """
-Calculae area and perimeter if a circle
+Calculae area and perimeter of a circle
 """
 
 pi = 3.14
